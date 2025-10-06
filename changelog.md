@@ -4,3 +4,6 @@
 
 # 0.1.1
 -bugfix correcao index html
+
+# 0.2.0
+-index js adicionado
